@@ -1,0 +1,5 @@
+2023-06-07 19:17:07: tijd en datum test6969
+2023-06-07 19:17:25: tijd en datum test123
+2023-06-07 19:17:43: dit is een test zodat ik dit later kan gebruiken om log files weg te schrijven
+07-06-2023 19:18:34: dit is een test zodat ik dit later kan gebruiken om log files weg te schrijven
+07-06-2023 19:18:39: dit is een test zodat ik dit later kan gebruiken om log files weg te schrijven
